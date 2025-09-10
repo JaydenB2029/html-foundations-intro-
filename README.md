@@ -43,6 +43,3 @@
     </footer>
   </body>
 </html>
-git init
-git add .
-git commit -m "First web page: structure + styles"
